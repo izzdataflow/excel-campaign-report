@@ -173,6 +173,8 @@ Select table from Volunteers_clean → Insert → Pivot Table → New Sheet → 
 
 ## 📊 Phase 4 — Dashboard (`Volunteers_Impact_Dashboard` Sheet)
 
+![Dashboard](assets/images/excel-dashboard.png)
+
 ### Scorecards
 
 | Scorecard | Formula |
